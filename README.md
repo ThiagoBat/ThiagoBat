@@ -6,8 +6,8 @@
 - 📫 Contate-me no e-mail: Thiagobatistafull@gmail.com
 <div align="center">
   <a href="https://github.com/ThiagoBat">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBat&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBat&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ##
