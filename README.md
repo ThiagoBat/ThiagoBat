@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Thiago Batista 👋
 
-- 🔭 Atualmente estou procurando oportunidades para trabalhar com análise de dados
 - 🖊️ Formado em Ciências Econômicas
 - 🌱 Estudando Python e R
 - 📫 Contate-me no e-mail: Thiagobatistafull@gmail.com
