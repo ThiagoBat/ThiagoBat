@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thiago Batista 👋
 
-- 🖊️ Formado em Ciências Econômicas
-- 🌱 Estudando Python e R
+- 🖊️ Bacharelado - Ciências Econômicas
+- 🖊️ MBA - Data Science e Analytics
 - 📫 Contate-me no e-mail: Thiagobatistafull@gmail.com
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBat"/>
